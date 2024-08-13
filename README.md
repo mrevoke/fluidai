@@ -1,6 +1,6 @@
-# Flutter App Implementation for Fluid AI Interview
+# Flutter App - Fluid AI
 
-This repository contains my implementation of the Flutter app as part of the technical exercise for Fluid AI. The goal was to accurately translate the provided screen design into a functional Flutter application.
+This repository contains my implementation of the Flutter App - Fluid AI. The goal was to accurately translate the provided screen design into a functional Flutter application.
 
 ## Features
 

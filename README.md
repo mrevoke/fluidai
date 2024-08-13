@@ -1,16 +1,22 @@
-# fluidai
+# Flutter App Implementation for Fluid AI Interview
 
-A new Flutter project.
+This repository contains my implementation of the Flutter app as part of the technical exercise for Fluid AI. The goal was to accurately translate the provided screen design into a functional Flutter application.
+
+## Features
+
+- **Frontend Implementation**: The application has been developed exactly as per the provided design.
+- **Animation**: I have also added an animation to one of the UI components from scratch, without using any external packages, as discussed in our meeting.
+
+## Video Demo
+
+[![Watch the demo](https://img.youtube.com/vi/FVFWv2-jTUQ/0.jpg)](https://youtube.com/shorts/FVFWv2-jTUQ?feature=share)
+
+**Click the thumbnail above to view a demo of the app.**
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this application, ensure you have Flutter installed on your machine. Then, clone the repository and run the following commands:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
